@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gargantuan5k&theme=onedark" alt="gargantuan5k" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/godofthunder" target="blank"><img src="https://img.shields.io/twitter/follow/godofthunder?logo=twitter&style=for-the-badge" alt="godofthunder" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Gargantuan5K" target="blank"><img src="https://img.shields.io/twitter/follow/Gargantuan5K?logo=twitter&style=for-the-badge" alt="godofthunder" /></a> </p>
 
 - 🔭 I’m currently working on: [ChessMelon: A complete chess engine](https://github.com/Gargantuan5k/ChessMelon)
 
