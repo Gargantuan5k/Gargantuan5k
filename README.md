@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **my Projects: CodeMelon, ChessMelon, ASCIIGen**
 
-- 📫 How to reach me: **gargantuan5k@gmail.com**
+- 📫 How to reach me: **gargantuan5k@outlook.com**
 
 - Fun fact: **My username and PFP come from the black hole Gargantua in Interstellar :D**
 
