@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gargantuan5K's Portfolio</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css">
+    <script src="https://kit.fontawesome.com/1c2c2462bf.js" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css?family=Source+Code+Pro:400,900|Source+Sans+Pro:300,400,900&display=swap">
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <link rel="icon" href="img/logo1.png">
+</head>
+
+<body>
+    <header id="header">
+        <div class="logo">
+            <a href="index.html">
+                <img src="img/gargantuan5k .svg" alt="" height="50" width="300" class="indexImg">
+            </a>
+        </div>
+
+        <button class="nav-toggle" aria-label="toggle navigation">
+            <span class="hamburger"></span>
+        </button>
+
+        <nav class="nav">
+            <ul class="nav__list">
+                <li class="nav__item"><a class="nav__link" href="#home">Home</a></li>
+                <li class="nav__item"><a class="nav__link" href="#projects">My Favourite Projects</a></li>
+                <li class="nav__item"><a class="nav__link" href="#about">About Me</a></li>
+                <li class="nav__item"><a class="nav__link" href="#work">All Projects</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Intro Section -->
+    <section class="intro" id="home">
+        <h1 class="section__title section__title--intro">
+            Hey, This is <strong>Siddharth Vivek</strong>
+        </h1>
+
+        <p class="section--subtitle section__subtitle--intro">@Gargantuan5K</p>
+        <img class="intro__img" src="img/logo1.png" alt="A logo" height="420" width="420">
+    </section>
+
+    <!-- Projects -->
+    <section class="my-projects" id="projects">
+        <h2 class="section__title section__title--projects">What I've done</h2>
+
+        <div class="projects">
+            <!-- TODO: Add brief descriptions for projects -->
+            <div class="project">
+                <a class="linkText" href="under-construction.html" target="_blank">
+                    <h3>CodeMelon</h3>
+                </a>
+                <p>
+                    CodeMelon is a functional programming language created by me in Python. I started the project in
+                    November 2020.
+                    It started off as a simple math parser, and has now grown to support datatypes, conditional
+                    statements,
+                    functions and much more! The repository for Codemelon can be found <a class="linkText"
+                        href="#" target="_blank"
+                        title="CodeMelon Repository">here</a>.
+                </p>
+            </div>
+
+            <div class="project">
+                <a class="linkText" href="under-construction.html" target="_blank">
+                    <h3>ChessEngine</h3>
+                </a>
+                <p>
+                    ChessEngine is my attempt at creating a complete Single/Multi player Chess game engine in Java.
+                    Singleplayer Mode will have an AI implemented using the <a
+                        href="https://en.wikipedia.org/wiki/Minimax" target="_blank" title="MiniMax Algorithm"
+                        class="linkText">MiniMax algorithm</a>, and the
+                    skill level of the AI will be roughly equal to that of a skilled human player.
+                    This project is currently in development, and the repository is linked <a class="linkText"
+                        href="#" target="_blank"
+                        title="ChessEngine Repository">here</a>.
+                </p>
+            </div>
+
+            <div class="project">
+                <a class="linkText" href="under-construction.html" target="_blank">
+                    <h3>TicTacToe-AI</h3>
+                </a>
+                <p>
+                    This project was my first successful attempt at implementing the <a
+                        href="https://en.wikipedia.org/wiki/Minimax" target="_blank" title="MiniMax Algorithm"
+                        class="linkText">MiniMax algorithm</a> in Python. It is a console Tic-Tac-Toe game which can be
+                    played between 2 players, against an AI or against random computer moves. You can also pit an AI
+                    against an AI
+                    or Random against Random! The repository for this project can be found <a class="linkText"
+                        href="#" target="_blank"
+                        title="AI TicTacToe Repository">here</a>.
+                </p>
+            </div>
+        </div>
+
+        <a class="btn" href="#work">All my Projects</a>
+
+    </section>
+
+    <!-- About Me -->
+    <section class="about-me" id="about">
+        <h2 class="section__title section__title--about">Who I am</h2>
+        <p class="section__subtitle section__subtitle--about">Student, Aspiring Software Developer</p>
+
+        <div class="about-me--body">
+            <p>
+                Hey there! My name is Siddharth Vivek, and I am a <span id="age">15</span> year-old student and an
+                aspiring Software Developer based in Navi Mumbai, India.
+            </p>
+            <p>
+                Software has always piqued my interest, having been introduced to programming in school in the 5th
+                grade, and in late 2019 I decided to delve deeper and get some hands-on learning!
+                I took courses on Python, Web Development, Java and C++, and since then have made many projects that I'm
+                quite proud of.
+                You can check all of them out here. My socials are also listed in the footer of this page, thanks for
+                visiting! :)
+            </p>
+        </div>
+
+        <img class="about-me--portrait" src="img/randImg.jpg" alt="">
+    </section>
+
+    <!-- My Work -->
+    <section class="my-work" id="work">
+        <h2 class="section__title--work">My Projects</h2>
+        <p class="section__subtitle--work">All the projects I've worked on</p>
+
+        <div class="portfolio">
+            <div class="img__wrap">
+                <a href="#" class="portfolio__item">
+                    <img class="portfolio__img" src="img/portfolio-01.jpg" alt="CodeMelon" height="204.65" width="363.8"
+                        title="CodeMelon (Python)">
+
+                    <div class="img__description_layer">
+                        <p class="img__description">CodeMelon</p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="img__wrap">
+                <a href="#" class="portfolio__item">
+                    <img class="portfolio__img" src="img/portfolio-05.jpeg" alt="ChessEngine" height="204.65"
+                        width="363.8" title="ChessEngine (Java)">
+
+                    <div class="img__description_layer">
+                        <p class="img__description">Chess Engine</p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="img__wrap">
+                <a href="#" class="portfolio__item">
+                    <img class="portfolio__img" src="img/portfolio-03.jpg" alt="TicTacToe" height="204.65" width="363.8"
+                        title="TicTacToe-AI (Python)">
+
+                    <div class="img__description_layer">
+                        <p class="img__description">TicTacToe</p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="img__wrap">
+                <a href="#" class="portfolio__item">
+                    <img class="portfolio__img" src="img/portfolio-07.jpeg" alt="Morse Generator" height="204.65"
+                        width="363.8" width="363.8" title="Morse Generator (Arduino)">
+
+                    <div class="img__description_layer">
+                        <p class="img__description">Morse Generator</p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="img__wrap">
+                <a href="#" class="portfolio__item">
+                    <img class="portfolio__img" src="img/portfolio-02.webp" alt="" height="204.65" width="363.8"
+                        title="Android Calculator App">
+
+                    <div class="img__description_layer">
+                        <p class="img__description">Calculator App</p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="img__wrap">
+                <a href="#" class="portfolio__item">
+                    <img class="portfolio__img" src="img/portfolio-06.jpeg" alt="" height="204.65" width="363.8"
+                        title="Image to ASCII Converter (Python)">
+
+                    <div class="img__description_layer">
+                        <p class="img__description">Image to ASCII</p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="img__wrap">
+                <a href="#" class="portfolio__item">
+                    <img class="portfolio__img" src="img/portfolio-08.jpeg" alt="" height="204.65" width="363.8"
+                        title="Steganography in Python">
+
+                    <div class="img__description_layer">
+                        <p class="img__description">Picture Steganography</p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="img__wrap">
+                <a href="#" class="portfolio__item">
+                    <img class="portfolio__img" src="img/portfolio-09.jpg" alt="" height="204.65" width="363.8"
+                        title="Flappy Bird (Python)">
+
+                    <div class="img__description_layer">
+                        <p class="img__description">Flappy Bird</p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="img__wrap">
+                <a href="#" class="portfolio__item">
+                    <img class="portfolio__img" src="img/portfolio-10.webp" alt="" height="204.65" width="363.8"
+                        title="Neumorphic Calculator (WebDev)">
+
+                    <div class="img__description_layer">
+                        <p class="img__description">Neumorphic Calculator</p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="img__wrap">
+                <a href="#" class="portfolio__item">
+                    <img class="portfolio__img" src="img/portfolio-11.jpg" alt="" height="204.65" width="363.8"
+                        title="Hangman (Python)">
+
+                    <div class="img__description_layer">
+                        <p class="img__description">Hangman</p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="img__wrap">
+                <a href="#" class="portfolio__item">
+                    <img class="portfolio__img" src="img/portfolio-12.jpg" alt="" height="204.65" width="363.8"
+                        title="TicTacToe (GUI)">
+
+                    <div class="img__description_layer">
+                        <p class="img__description">TicTacToe (GUI)</p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="img__wrap">
+                <a href="#" class="portfolio__item">
+                    <img class="portfolio__img" src="img/portfolio-13.jpg" alt="" height="204.65" width="363.8"
+                        title="Competitive Programming">
+
+                    <div class="img__description_layer">
+                        <p class="img__description">Competitive Programming</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+
+    <footer class="footer">
+        <a href="mailto:gargantuan5k@outlook.com" class="footer__link">
+            <i class="fas fa-envelope-open-text"></i>gargantuan5k@outlook.com</a>
+        <ul class="social-list">
+            <li class="social-list__item">
+                <a href="https://www.instagram.com/gargantuan5000/" class="social-list__link" target="_blank">
+                    <i class="fab fa-instagram"></i>
+                </a>
+            </li>
+
+            <li class="social-list__item">
+                <a href="https://www.reddit.com/user/generic-blackhole" class="social-list__link" target="_blank">
+                    <i class="fab fa-reddit"></i>
+                </a>
+            </li>
+
+            <li class="social-list__item">
+                <a href="https://github.com/gargantuan5k/" class="social-list__link" target="_blank">
+                    <i class="fab fa-github"></i>
+                </a>
+            </li>
+
+            <li class="social-list__item">
+                <a href="https://discordapp.com/users/diS#7313" class="social-list__link" target="_blank">
+                    <i class="fab fa-discord"></i>
+                </a>
+            </li>
+        </ul>
+    </footer>
+
+    <script src="JS/index.js"></script>
+
+</body>
+
+</html>
