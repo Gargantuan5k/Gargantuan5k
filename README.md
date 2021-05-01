@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/Gargantuan5K" target="blank"><img src="https://img.shields.io/twitter/follow/Gargantuan5K?logo=twitter&style=for-the-badge" alt="godofthunder" /></a> </p>
 
-- 🔭 I’m currently working on: [ChessMelon: A complete chess engine](https://github.com/Gargantuan5k/ChessMelon)
+- 🔭 I’m currently working on: [SpudBot: A Discord Bot](https://github.com/Gargantuan5k/SpudBot) and [ShatranJ: A complete Java chess engine](https://github.com/Gargantuan5k/ChessMelon)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms on FreeCodeCamp :)**
 
