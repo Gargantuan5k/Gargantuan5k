@@ -15,7 +15,9 @@
 
 - 💬 Ask me why [Linux](https://github.com/torvalds/linux) is better than Windows, imma bore you to hell :)
 
-- 📫 How to reach me: [Shoot me an email](mailto:siddharth.vivek2000@outlook.com) or [join the Discord server](https://discord.gg/TFB5TQBtSg) (my username is @ani)
+- 🥅 My goal for 2021: Learn C++ and DSA really well so I can participate in a Coding Competition lmao
+
+- 📫 How to reach me: [Shoot me an email](mailto:siddharth.vivek2000@outlook.com) or [join the Discord server](https://discord.gg/TFB5TQBtSg) (ask for Sid or @because)
 
 - Fun fact: *I use Arch btw*
 
@@ -24,7 +26,7 @@
 <a href="https://codepen.io/gargantuan5k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="gargantuan5k" height="30" width="40" /></a>
 <a href="https://twitter.com/godofthunder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="godofthunder" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14971826" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="14971826" height="30" width="40" /></a>
-<a href="https://instagram.com/gargantuan5k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="gargantuan5k" height="30" width="40" /></a>
+<a href="https://www.instagram.com/siddharth._.vivek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="gargantuan5k" height="30" width="40" /></a>
 </p>
 
 <!-- <h3 align="left">Languages and Tools:</h3>
