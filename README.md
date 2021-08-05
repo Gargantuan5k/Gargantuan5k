@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/Gargantuan5K" target="blank"><img src="https://img.shields.io/twitter/follow/Gargantuan5K?logo=twitter&style=for-the-badge" alt="godofthunder" /></a> </p>
 
-- 🔭 I’m currently working on: [SpudBot: A Discord Bot](https://github.com/Gargantuan5k/SpudBot) and [ShatranJ: A complete Java chess engine](https://github.com/Gargantuan5k/ChessMelon)
+- 🔭 I’m currently working on: [SpudBot: A Discord Bot](https://github.com/Gargantuan5k/SpudBot) and [C++ Basics](https://github.com/Gargantuan5k/CPPBasics)
 
-- 🌱 I’m currently learning **[C++ Basics by Abdul Bari on Udemy](https://github.com/gargantuan5k/CPPBasics)**
+- 🌱 I’m currently learning [C++ Deep Dive by Abdul Bari on Udemy](https://www.udemy.com/course/cpp-deep-dive/), repo [here](https://github.com/Gargantuan5k/CPPBasics)
 
-- 👨‍💻 All of my projects are available on [my website](gargantuan5k.github.io/portfolio/)
+- 👨‍💻 All of my projects are available on [my website](gargantuan5k.github.io)
 
-- 💬 Ask me about how [linux](https://github.com/torvalds/linux) is better than Windows imma bore you to hell :)
+- 💬 Ask me about how [linux](https://github.com/torvalds/linux) is better than Windows, imma bore you to hell :)
 
 - 📫 How to reach me: [Shoot me an email](mailto:siddharth.vivek2000@outlook.com) or [join the Discord server](https://discord.gg/TFB5TQBtSg) (my username is @ani)
 
