@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available on [my website](gargantuan5k.github.io)
 
-- 💬 Ask me about how [linux](https://github.com/torvalds/linux) is better than Windows, imma bore you to hell :)
+- 💬 Ask me why [Linux](https://github.com/torvalds/linux) is better than Windows, imma bore you to hell :)
 
 - 📫 How to reach me: [Shoot me an email](mailto:siddharth.vivek2000@outlook.com) or [join the Discord server](https://discord.gg/TFB5TQBtSg) (my username is @ani)
 
-- Fun fact: *My username and PFP come from the black hole Gargantua in Interstellar :D*
+- Fun fact: *I use Arch btw*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
