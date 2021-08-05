@@ -1,15 +1,16 @@
-<h1 align="center">Hi, I'm Siddharth Vivek</h1>
+<h1 align="center">Hey, I'm Gargantuan5k</h1>
 <h3 align="center">A 15 year old student and aspiring software engineer from India :)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gargantuan5k&label=Profile%20views&color=0e75b6&style=flat" alt="gargantuan5k" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gargantuan5k&label=Profile%20views&color=0e75b6&style=flat" alt="gargantuan5k" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gargantuan5k&theme=onedark" alt="gargantuan5k" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gargantuan5k&title=Stars,Followers,Joined2020,Commit,Repositories,PullRequest&theme=onedark" alt="gargantuan5k" /></a> </p>
 
 <p align="left">
 <a href="mailto:gargantuan5k@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="email" /></a>
 <a href="https://twitter.com/Gargantuan5K" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="godofthunder" /></a>
 <a href="https://www.instagram.com/siddharth._.vivek" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="godofthunder" /></a> 
 <a href="https://discord.gg/TFB5TQBtSg"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
+<img src="https://komarev.com/ghpvc/?username=gargantuan5k&label=Profile%20views&color=0e75b6&style=flat" alt="gargantuan5k" />
 </p>
 
 - 🔭 I’m currently working on: [SpudBot: A Discord Bot](https://github.com/Gargantuan5k/SpudBot) and [C++ Basics](https://github.com/Gargantuan5k/CPPBasics)
