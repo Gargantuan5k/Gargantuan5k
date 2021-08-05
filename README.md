@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning [C++ Deep Dive by Abdul Bari on Udemy](https://www.udemy.com/course/cpp-deep-dive/), repo [here](https://github.com/Gargantuan5k/CPPBasics)
 
-- 👨‍💻 All of my projects are available on [my website](gargantuan5k.github.io)
+- 👨‍💻 All of my projects are available on [my website](https://gargantuan5k.github.io)
 
 - 💬 Ask me why [Linux](https://github.com/torvalds/linux) is better than Windows, imma bore you to hell :)
 
