@@ -13,13 +13,13 @@
 <img src="https://komarev.com/ghpvc/?username=gargantuan5k&label=Profile%20views&color=0e75b6&style=flat" alt="gargantuan5k" />
 </p>
 
-- 🔭 I’m currently working on: [SpudBot: A Discord Bot](https://github.com/Gargantuan5k/SpudBot) and [C++ Basics](https://github.com/Gargantuan5k/CPPBasics)
+- 🔭 I’m currently working on: [A French Bloggging Website](https://github.com/Gargantuan5k/FrenchBlogWebsite) and [C++ Basics](https://github.com/Gargantuan5k/CPPBasics)
 
 - 🌱 I’m currently learning [C++ Deep Dive by Abdul Bari on Udemy](https://www.udemy.com/course/cpp-deep-dive/), repo [here](https://github.com/Gargantuan5k/CPPBasics)
 
 - 👨‍💻 All of my projects are available on [my website](https://gargantuan5k.github.io)
 
-- 💬 Ask me why [Linux](https://github.com/torvalds/linux) is better than Windows, imma bore you to hell :)
+- 💬 Ask me why [Linux](https://github.com/torvalds/linux) is better than Windows :)
 
 - 🥅 My goal for 2021: Learn C++ and DSA really well so I can participate in a Coding Competition lmao
 
