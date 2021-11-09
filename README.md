@@ -23,7 +23,7 @@
 
 - 🥅 My goal for 2021: Learn C++ and DSA really well so I can participate in a Coding Competition lmao
 
-- 📫 How to reach me: [Shoot me an email](mailto:siddharth.vivek2000@outlook.com) or [join the Discord server](https://discord.gg/TFB5TQBtSg) (ask for Sid or @because)
+- 📫 How to reach me: [Shoot me an email](mailto:siddharth.vivek2000@outlook.com) or [join the Discord server](https://discord.gg/TFB5TQBtSg)
 
 - Fun fact: *I use Arch btw*
 
