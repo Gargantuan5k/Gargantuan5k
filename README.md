@@ -11,17 +11,17 @@
 <img src="https://komarev.com/ghpvc/?username=gargantuan5k&label=Profile%20views&color=0e75b6&style=flat" alt="gargantuan5k" />
 </p>
 
-- 🔭 I’m currently working on: [A French Bloggging Website](https://github.com/Gargantuan5k/FrenchBlogWebsite) and [C++ Basics](https://github.com/Gargantuan5k/CPPBasics)
+- I’m currently working on: [A French Bloggging Website](https://github.com/Gargantuan5k/FrenchBlogWebsite) and [C++ Basics](https://github.com/Gargantuan5k/CPPBasics)
 
-- 🌱 I’m currently learning [C++ Deep Dive by Abdul Bari on Udemy](https://www.udemy.com/course/cpp-deep-dive/), repo [here](https://github.com/Gargantuan5k/CPPBasics)
+- I’m currently learning [C++ Deep Dive by Abdul Bari on Udemy](https://www.udemy.com/course/cpp-deep-dive/), repo [here](https://github.com/Gargantuan5k/CPPBasics)
 
-- 👨‍💻 All of my projects are available on [my website](https://gargantuan5k.github.io)
+- All of my projects are available on [my website](https://gargantuan5k.github.io)
 
-- 🥅 My goal for 2022: Become proficient in C++ and DSA with C++, participate in coding competitions
+- My goal for 2022: Become proficient in C++ and DSA with C++, participate in coding competitions
 
-- 📫 How to reach me: [Shoot me an email](mailto:siddharth.vivek2000@outlook.com) or [join the Discord server](https://discord.gg/TFB5TQBtSg)
+- How to reach me: [Shoot me an email](mailto:siddharth.vivek2000@outlook.com) or add me on Discord: sid_#0011)
 
-<h3 align="center">My GitHub Stats:</h3>
+<h3 align="center">Stats:</h3>
 <hr />
 
 <h3 align="center">Languages and Tools:</h3>
