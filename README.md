@@ -19,7 +19,7 @@
 
 - My goal for 2022: Become proficient in C++ and DSA with C++, participate in coding competitions
 
-- How to reach me: [Shoot me an email](mailto:siddharth.vivek2000@outlook.com) or add me on Discord: sid_#0011)
+- How to reach me: [Shoot me an email](mailto:siddharth.vivek2000@outlook.com) or add me on Discord: `sid_#0011`
 
 <h3 align="center">Stats:</h3>
 <hr />
