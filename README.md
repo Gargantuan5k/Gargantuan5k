@@ -46,7 +46,7 @@
 </p>
 </p>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gargantuan5k&show_icons=true&locale=en&layout=compact" alt="gargantuan5k" / width="495" height="220">
-    <img src="https://github-readme-stats.vercel.app/api?username=gargantuan5k&show_icons=true&locale=en" alt="gargantuan5k" width="495" height="220"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gargantuan5k&" alt="gargantuan5k" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gargantuan5k&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="gargantuan5k" / width="495" height="220">
+    <img src="https://github-readme-stats.vercel.app/api?username=gargantuan5k&theme=github_dark&show_icons=true&locale=en" alt="gargantuan5k" width="495" height="220"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gargantuan5k&theme=blueberry_duo" alt="gargantuan5k" />
  </div>
