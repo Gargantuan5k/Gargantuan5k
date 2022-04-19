@@ -25,36 +25,13 @@
 <hr />
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<div align="center">
     <a href="https://www.python.org" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> 
-    </a>
-    
-    <a href="https://github.com/Gargantuan5k/CPPBasics" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /> 
-    </a> 
-    
-    <a href="https://www.w3.org/html/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-    </a>
-    
-    <a href="https://github.com/Gargantuan5k/webdev-projects/tree/master/CSS" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" /> 
-    </a> 
-    
-    <a href="https://github.com/Gargantuan5k/webdev-projects" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"                     height="40"/> 
-    </a> 
-    
-    <a href="https://git-scm.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> 
-    </a> 
-   
-    <a href="https://www.linux.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> 
-    </a>
-</p>
-</p>
+    </a><a href="https://github.com/Gargantuan5k/CPPBasics" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /></a><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a><a href="https://github.com/Gargantuan5k/webdev-projects/tree/master/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" /></a><a href="https://github.com/Gargantuan5k/webdev-projects" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>
+</div>
+
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gargantuan5k&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="gargantuan5k" / width="495" height="220">
     <img src="https://github-readme-stats.vercel.app/api?username=gargantuan5k&theme=github_dark&show_icons=true&locale=en" alt="gargantuan5k" width="495" height="220"/>
