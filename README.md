@@ -14,12 +14,7 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/siddharth._.vivek)
 ![profile views](https://komarev.com/ghpvc/?username=gargantuan5k&label=Profile%20views&color=0e75b6&style=flat)
 
-</div>
-
-- I’m currently working on [eduBase](https://github.com/Gargantuan5K/edu-base/) as a collaborative project.
-
-- All of my projects are available on [my website](https://gargantuan5k.github.io).
-
+</div
 
 <h3 align="center">Stats:</h3>
 <hr />
