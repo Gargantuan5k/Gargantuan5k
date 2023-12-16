@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Sid</h1>
-<h3 align="center">A 17 year old student and aspiring software engineer from India</h3>
+<h3 align="center">A 17 year old student and aspiring Computer Scientist from India</h3>
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=gargantuan5k&title=Stars,Followers,Joined2020,Commit,Repositories,PullRequest&theme=onedark)
+<div style="align: center;">![](https://github-profile-trophy.vercel.app/?username=gargantuan5k&title=Stars,Followers,Joined2020,Commit,Repositories,PullRequest&theme=onedark)</div>
 
 </div>
     
