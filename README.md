@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<div style="align: center;">![](https://github-profile-trophy.vercel.app/?username=gargantuan5k&title=Stars,Followers,Joined2020,Commit,Repositories,PullRequest&theme=onedark)</div>
+<div style="align: center;"><img style="align: center" src="https://github-profile-trophy.vercel.app/?username=gargantuan5k&title=Stars,Followers,Joined2020,Commit,Repositories,PullRequest&theme=onedark" /</div>
 
 </div>
     
@@ -14,7 +14,7 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/siddharth._.vivek)
 ![profile views](https://komarev.com/ghpvc/?username=gargantuan5k&label=Profile%20views&color=0e75b6&style=flat)
 
-</div
+</div>
 
 
 
