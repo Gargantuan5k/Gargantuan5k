@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Sid</h1>
-<h3 align="center">A 17 year old student and aspiring Computer Scientist from India</h3>
+<h3 align="center">An 18 year old student and aspiring Computer Scientist from India</h3>
 
 <div align="center">
 
