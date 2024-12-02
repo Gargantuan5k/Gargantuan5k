@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [expense-tracker](https://github.com/Gargantuan5k/expense-tracker/)
 
-- 🌱 I’m currently learning **Cross-Platform App Development with Flutter**
+- 🌱 I’m currently learning **Machine Learning and Data Analysis with Python**
 
 - 👨‍💻 All of my projects will be available on [my website](https://gargantuan5k.github.io/) (once I find the time to update it)
 
