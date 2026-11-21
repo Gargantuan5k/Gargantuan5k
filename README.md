@@ -22,7 +22,7 @@
 ---
 
 <div align="center">
-  <img src="./terminal.svg" alt="Terminal: whoami, ls research/, make tapeout PDK=sky130, uptime" width="50%" />
+  <img src="./terminal.svg" alt="Terminal: whoami, ls research/, make tapeout PDK=sky130, uptime" width="100%" />
 </div>
 
 ## Research
