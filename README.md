@@ -40,13 +40,12 @@
 
 ## Other things I've built 
 
-| Project | What it is | tldr |
+| project | what it is | tldr |
 |---|---|---|
-| **ViT on FPGA** | Vision Transformer segmentation pipeline in hardware | attention is all you need (and a lot of BRAM) |
+| **ViT on FPGA** | vision transformer segmentation and classification pipeline in hardware | an image is worth 16x16 words (and a lot of BRAM) |
 | **CNN MAC accelerator** | RTL → IP packaging → ZedBoard bitstream | 🟢 the LED blinked |
-| **ASIC reverse-engineering** | GDS → netlist on sky130, purely for fun | archaeology, but for transistors |
-| **Radiation pulse discrimination** | Nuclear pulse counting and classification on STM32 | counts particles so you don't have to |
-| **17-bit framed serial bus** | A custom protocol between satellite subsystems | because 16 bits was too mainstream |
+| **ASIC reverse-engineering** | GDS → netlist on sky130, purely for fun | jane street wont hire me so maybe ill just steal their chips |
+| **Radiation pulse discrimination** | Nuclear pulse counting and classification on STM32 | alphas and betas, gamma will probably just fry the board |
 | **Pacman on STM32H7** | Exactly what it sounds like, on a DWIN LCD | 👾 waka waka |
 
 ## Toolchain
