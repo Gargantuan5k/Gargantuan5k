@@ -74,11 +74,11 @@
 ## Known issues
 
 ```diff
-+ FIXED   Single-event upsets in the MAC datapath (BCH says hi)
++ FIXED   Single-event upsets in the MAC datapath 
 + FIXED   LED did not blink (it was the reset polarity. it is always the reset polarity.)
-! OPEN    Will explain Galois fields to anyone who stands still long enough
-! OPEN    Says "just one more synthesis run" at 2 AM
-- WONTFIX Opens the 8259A datasheet for fun
+! OPEN    galois field arithmetic
+! OPEN    "just one more synthesis run" at 2 AM
+- WONTFIX the second error that mac-sentry detected
 ```
 
 <details>
