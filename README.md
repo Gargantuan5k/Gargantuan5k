@@ -28,9 +28,7 @@
   <img src="./terminal.svg" alt="Terminal: whoami, ls research/, make tapeout PDK=sky130, uptime" width="100%" />
 </div> -->
 
-## 🔬 Research
-
-> Hardware that fails gracefully, learns on the fly, and doesn't mind a bit of radiation.
+## Research
 
 | | Thread | Status |
 |---|---|---|
@@ -40,9 +38,9 @@
 | 🔐 | **Hardware security**: S-box implementations and how much they leak | ![](https://img.shields.io/badge/-exploring-bb9af7?style=flat-square) |
 | 🫀 | **TinyML for wearables**: blood-pressure estimation from PPG on tiny, low-power hardware | ![](https://img.shields.io/badge/-curious-bb9af7?style=flat-square) |
 
-## 🛰️ Other things I've built (or broken)
+## Other things I've built 
 
-| Project | What it is | Vibe |
+| Project | What it is | tldr |
 |---|---|---|
 | **ViT on FPGA** | Vision Transformer segmentation pipeline in hardware | attention is all you need (and a lot of BRAM) |
 | **CNN MAC accelerator** | RTL → IP packaging → ZedBoard bitstream | 🟢 the LED blinked |
@@ -51,7 +49,7 @@
 | **17-bit framed serial bus** | A custom protocol between satellite subsystems | because 16 bits was too mainstream |
 | **Pacman on STM32H7** | Exactly what it sounds like, on a DWIN LCD | 👾 waka waka |
 
-## 🧰 Toolchain
+## Toolchain
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,matlab,linux,bash,git,latex&theme=dark" />
@@ -65,7 +63,7 @@
 ![OpenROAD](https://img.shields.io/badge/OpenROAD-1f2335?style=for-the-badge&logoColor=9ece6a)
 ![sky130](https://img.shields.io/badge/sky130-1f2335?style=for-the-badge&logoColor=e0af68)
 
-## 📡 Telemetry
+## Telemetry
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gargantuan5k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -74,7 +72,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gargantuan5k&theme=tokyonight&hide_border=true" />
 </div>
 
-## 🐛 Known issues
+## Known issues
 
 ```diff
 + FIXED   Single-event upsets in the MAC datapath (BCH says hi)
@@ -85,7 +83,7 @@
 ```
 
 <details>
-<summary><b>⚡ Fun facts (click to expand)</b></summary>
+<summary><b>Fun facts (click to expand)</b></summary>
 <br/>
 
 - My favourite failure mode is the single-event upset. My second favourite is the one I haven't found yet.
@@ -97,14 +95,11 @@
 
 </details>
 
-## 💬 Ask me about
-
-`RTL design` · `radiation hardening` · `BCH codes & finite fields` · `CubeSat avionics` · `FPGA accelerators` · `LUT-based neural nets` · `why your design isn't closing timing`
 
 <div align="center">
 
 <br/>
 
-<sub>⏱️ Last seen: staring at a waveform viewer, whispering "why is that signal X"</sub>
+<sub>you da real profile</sub>
 
 </div>
