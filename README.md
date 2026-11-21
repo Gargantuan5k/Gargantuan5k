@@ -29,14 +29,13 @@
 </div> -->
 
 ## Research
-
 | | Thread | Status |
 |---|---|---|
-| 🛡️ | **[MAC Sentry](https://github.com/Gargantuan5k/mac-sentry)**: a radiation-hardened multiply-accumulate unit protected by BCH error correction (syndrome → Berlekamp–Massey → Chien search, all in GF(2^m)). Being integrated with a friend's NPU over Wishbone, headed for a **sky130 tapeout** | ![](https://img.shields.io/badge/-RTL%20→%20silicon-7aa2f7?style=flat-square) |
-| 🧠 | **Runtime-reconfigurable LUT neural networks**: every neuron *is* a LUT (CFGLUT5), retrained on-chip to recover the accuracy a gas-sensor classifier loses to drift | ![](https://img.shields.io/badge/-paper%20in%20progress-e0af68?style=flat-square) |
-| ⏱️ | **Autonomous timing closure**: an evolutionary agent that rewrites RTL until the timing report stops yelling, built on open-source EDA | ![](https://img.shields.io/badge/-evolving-9ece6a?style=flat-square) |
-| 🔐 | **Hardware security**: S-box implementations and how much they leak | ![](https://img.shields.io/badge/-exploring-bb9af7?style=flat-square) |
-| 🫀 | **TinyML for wearables**: blood-pressure estimation from PPG on tiny, low-power hardware | ![](https://img.shields.io/badge/-curious-bb9af7?style=flat-square) |
+| 🛡️ | **[MAC Sentry](https://github.com/Gargantuan5k/mac-sentry)**: a radiation-hardened multiply-accumulate unit protected by multiple strategies. Being integrated with an NPU over Wishbone, headed for a **sky130 tapeout** | ![](https://img.shields.io/badge/-RTL%20→%20silicon-7aa2f7?style=flat-square) |
+| 🧠 | **Runtime-reconfigurable LUT neural networks**: every neuron *is* a LUT, could we somehow retrain on-chip? | ![](https://img.shields.io/badge/-paper%20in%20progress-e0af68?style=flat-square) |
+| ⏱️ | **cogito**: an agent that rewrites RTL until the timing report stops yelling, built on open-source EDA | ![](https://img.shields.io/badge/-evolving-9ece6a?style=flat-square) |
+| ❓ | **more?** I'm open to collaboration! | 
+
 
 ## Other things I've built 
 
