@@ -5,21 +5,20 @@
 </div>
 
 ```
-                              .  *        .       .        *     .
-                       *   .        __|__   .  *        .         .
-                    .         --====|[O]|====--     ~~~* <- not today, cosmic ray
-                       .   *        |___|      .     *        .
-                   .          *      / \   .       .     *         .
+                                                  .  *        .       .        *     .
+                                           *   .        __|__   .  *        .         .
+                                        .         --====|[O]|====--      ☄️<- not today, cosmic ray
+                                           .   *        |___|      .     *        .
+                                       .          *      / \   .       .     *         .
 ```
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=Gargantuan5k&color=7aa2f7&style=flat-square&label=uplinks+received)
+![Profile views](https://komarev.com/ghpvc/?username=Gargantuan5k&color=7aa2f7&style=flat-square&label=times+ive+viewed+my+own+profile)
 ![SEUs survived](https://img.shields.io/badge/SEUs%20survived-all%20of%20them*-9ece6a?style=flat-square)
-![Coffee](https://img.shields.io/badge/coffee-critically%20low-ff5370?style=flat-square)
 ![Timing](https://img.shields.io/badge/timing-almost%20met-e0af68?style=flat-square)
 
-<sub>*that we know of</sub>
+<sub>*hopefully</sub>
 
 </div>
 
