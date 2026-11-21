@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="360" viewBox="0 0 780 360" role="img" aria-label="Animated terminal">
+<style>
+text{font-family:"JetBrains Mono","Fira Code",Consolas,"DejaVu Sans Mono",Menlo,monospace;font-size:14px;white-space:pre}
+@keyframes show{to{opacity:1}}
+@keyframes hide{to{opacity:0}}
+@keyframes blink{50%{opacity:0}}
+.s1{opacity:0;animation:show .01s 0.60s forwards}
+.s3{opacity:0;animation:show .01s 0.60s forwards}
+@keyframes w2{to{transform:translateX(50.4px)}}
+.cv2{animation:w2 0.33s steps(6,end) 1.05s forwards}
+.cu2{opacity:0;animation:show .01s 0.60s forwards,blink .5s steps(1) 0.60s 1,w2 0.33s steps(6,end) 1.05s forwards,hide .01s 1.73s forwards}
+.s4{opacity:0;animation:show .01s 1.73s forwards}
+.s5{opacity:0;animation:show .01s 2.33s forwards}
+.s7{opacity:0;animation:show .01s 2.33s forwards}
+@keyframes w6{to{transform:translateX(100.8px)}}
+.cv6{animation:w6 0.66s steps(12,end) 2.78s forwards}
+.cu6{opacity:0;animation:show .01s 2.33s forwards,blink .5s steps(1) 2.33s 1,w6 0.66s steps(12,end) 2.78s forwards,hide .01s 3.79s forwards}
+.s8{opacity:0;animation:show .01s 3.79s forwards}
+.s9{opacity:0;animation:show .01s 3.91s forwards}
+.s10{opacity:0;animation:show .01s 4.03s forwards}
+.s11{opacity:0;animation:show .01s 4.63s forwards}
+.s13{opacity:0;animation:show .01s 4.63s forwards}
+@keyframes w12{to{transform:translateX(193.2px)}}
+.cv12{animation:w12 1.26s steps(23,end) 5.08s forwards}
+.cu12{opacity:0;animation:show .01s 4.63s forwards,blink .5s steps(1) 4.63s 1,w12 1.26s steps(23,end) 5.08s forwards,hide .01s 6.70s forwards}
+.s14{opacity:0;animation:show .01s 6.70s forwards}
+.s15{opacity:0;animation:show .01s 6.82s forwards}
+.s16{opacity:0;animation:show .01s 6.94s forwards}
+.s17{opacity:0;animation:show .01s 7.06s forwards}
+.s18{opacity:0;animation:show .01s 7.66s forwards}
+.s20{opacity:0;animation:show .01s 7.66s forwards}
+@keyframes w19{to{transform:translateX(50.4px)}}
+.cv19{animation:w19 0.33s steps(6,end) 8.11s forwards}
+.cu19{opacity:0;animation:show .01s 7.66s forwards,blink .5s steps(1) 7.66s 1,w19 0.33s steps(6,end) 8.11s forwards,hide .01s 8.79s forwards}
+.s21{opacity:0;animation:show .01s 8.79s forwards}
+.s22{opacity:0;animation:show .01s 9.38s forwards}
+.fc{opacity:0;animation:show .01s 9.38s forwards,blink 1s steps(1) 9.38s infinite}
+</style>
+<rect width="780" height="360" rx="10" fill="#1a1b26"/>
+<path d="M0 10a10 10 0 0 1 10-10h760a10 10 0 0 1 10 10v22H0z" fill="#16161e"/>
+<circle cx="20" cy="16" r="6" fill="#f7768e"/><circle cx="40" cy="16" r="6" fill="#e0af68"/><circle cx="60" cy="16" r="6" fill="#9ece6a"/>
+<text x="390.0" y="20" text-anchor="middle" fill="#565f89" style="font-size:12px">gargantuan5k@github — ~</text>
+<g xml:space="preserve">
+<text class="s1" x="18" y="52" textLength="193.2" lengthAdjust="spacingAndGlyphs"><tspan fill="#9ece6a">gargantuan5k</tspan><tspan fill="#565f89">@</tspan><tspan fill="#bb9af7">github</tspan><tspan fill="#565f89">:</tspan><tspan fill="#7aa2f7">~</tspan><tspan fill="#c0caf5">$ </tspan></text>
+<text class="s3" x="211.2" y="52" fill="#c0caf5" textLength="50.4" lengthAdjust="spacingAndGlyphs">whoami</text>
+<rect class="cv2" x="211.2" y="37" width="52.4" height="20" fill="#1a1b26"/>
+<rect class="cu2" x="211.2" y="38" width="8.4" height="18" fill="#c0caf5"/>
+<text class="s4" x="18" y="74"><tspan fill="#9ece6a">siddharth</tspan><tspan fill="#565f89"> · </tspan><tspan fill="#c0caf5">eee undergrad</tspan><tspan fill="#565f89"> · </tspan><tspan fill="#7dcfff">rtl designer</tspan><tspan fill="#565f89"> · </tspan><tspan fill="#e0af68">caffeine addict</tspan></text>
+<text class="s5" x="18" y="96" textLength="193.2" lengthAdjust="spacingAndGlyphs"><tspan fill="#9ece6a">gargantuan5k</tspan><tspan fill="#565f89">@</tspan><tspan fill="#bb9af7">github</tspan><tspan fill="#565f89">:</tspan><tspan fill="#7aa2f7">~</tspan><tspan fill="#c0caf5">$ </tspan></text>
+<text class="s7" x="211.2" y="96" fill="#c0caf5" textLength="100.8" lengthAdjust="spacingAndGlyphs">ls research/</text>
+<rect class="cv6" x="211.2" y="81" width="102.8" height="20" fill="#1a1b26"/>
+<rect class="cu6" x="211.2" y="82" width="8.4" height="18" fill="#c0caf5"/>
+<text class="s8" x="18" y="118"><tspan fill="#7aa2f7">mac-sentry/</tspan><tspan fill="#565f89">      rad-hard mac at 130nm</tspan></text>
+<text class="s9" x="18" y="140"><tspan fill="#7aa2f7">lut-nn/</tspan><tspan fill="#565f89">          now every lut can be a neuron</tspan></text>
+<text class="s10" x="18" y="162"><tspan fill="#7aa2f7">cogito/</tspan><tspan fill="#565f89">          think, be, and fix my timing violations</tspan></text>
+<text class="s11" x="18" y="184" textLength="193.2" lengthAdjust="spacingAndGlyphs"><tspan fill="#9ece6a">gargantuan5k</tspan><tspan fill="#565f89">@</tspan><tspan fill="#bb9af7">github</tspan><tspan fill="#565f89">:</tspan><tspan fill="#7aa2f7">~</tspan><tspan fill="#c0caf5">$ </tspan></text>
+<text class="s13" x="211.2" y="184" fill="#c0caf5" textLength="193.2" lengthAdjust="spacingAndGlyphs">make tapeout pdk=sky130</text>
+<rect class="cv12" x="211.2" y="169" width="195.2" height="20" fill="#1a1b26"/>
+<rect class="cu12" x="211.2" y="170" width="8.4" height="18" fill="#c0caf5"/>
+<text class="s14" x="18" y="206"><tspan fill="#bb9af7">[yosys]    </tspan><tspan fill="#c0caf5">synthesis ................ </tspan><tspan fill="#9ece6a">OK</tspan></text>
+<text class="s15" x="18" y="228"><tspan fill="#bb9af7">[openroad] </tspan><tspan fill="#c0caf5">place &amp; route ............ </tspan><tspan fill="#9ece6a">OK</tspan></text>
+<text class="s16" x="18" y="250"><tspan fill="#bb9af7">[sta]      </tspan><tspan fill="#c0caf5">WNS = +0.012 ns .......... </tspan><tspan fill="#9ece6a">MET</tspan></text>
+<text class="s17" x="18" y="272"><tspan fill="#bb9af7">[seu-sim]  </tspan><tspan fill="#c0caf5">3 bit flips injected ..... </tspan><tspan fill="#9ece6a">3/3 corrected</tspan></text>
+<text class="s18" x="18" y="294" textLength="193.2" lengthAdjust="spacingAndGlyphs"><tspan fill="#9ece6a">gargantuan5k</tspan><tspan fill="#565f89">@</tspan><tspan fill="#bb9af7">github</tspan><tspan fill="#565f89">:</tspan><tspan fill="#7aa2f7">~</tspan><tspan fill="#c0caf5">$ </tspan></text>
+<text class="s20" x="211.2" y="294" fill="#c0caf5" textLength="50.4" lengthAdjust="spacingAndGlyphs">uptime</text>
+<rect class="cv19" x="211.2" y="279" width="52.4" height="20" fill="#1a1b26"/>
+<rect class="cu19" x="211.2" y="280" width="8.4" height="18" fill="#c0caf5"/>
+<text class="s21" x="18" y="316"><tspan fill="#c0caf5">3 allnighters, </tspan><tspan fill="#f7768e">attention span critically low</tspan><tspan fill="#c0caf5">, sleep: </tspan><tspan fill="#e0af68">nan</tspan></text>
+<text class="s22" x="18" y="338" textLength="193.2" lengthAdjust="spacingAndGlyphs"><tspan fill="#9ece6a">gargantuan5k</tspan><tspan fill="#565f89">@</tspan><tspan fill="#bb9af7">github</tspan><tspan fill="#565f89">:</tspan><tspan fill="#7aa2f7">~</tspan><tspan fill="#c0caf5">$ </tspan></text>
+<rect class="fc" x="211.2" y="324" width="8.4" height="18" fill="#c0caf5"/>
+</g>
+</svg>
